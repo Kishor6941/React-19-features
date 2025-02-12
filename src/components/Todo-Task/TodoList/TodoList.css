@@ -1,0 +1,8 @@
+.edit{
+    cursor: pointer;
+    color: blue;
+}
+.delete{
+    cursor: pointer;
+    color: red;
+}
